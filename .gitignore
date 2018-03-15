@@ -1,3 +1,4 @@
+*.hdf5
 glove.42B.300d.txt
 glove.6B.100d.txt
 new_data/
